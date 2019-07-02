@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mazzze/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mazzze/static/js/main.b9e2d134.chunk.js",
+    "main.js.map": "/mazzze/static/js/main.b9e2d134.chunk.js.map",
+    "runtime~main.js": "/mazzze/static/js/runtime~main.1f4b1629.js",
+    "runtime~main.js.map": "/mazzze/static/js/runtime~main.1f4b1629.js.map",
+    "static/js/2.b41502e9.chunk.js": "/mazzze/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/mazzze/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/mazzze/index.html",
+    "precache-manifest.9611fb342082641b5b33ddd3b5c63dd3.js": "/mazzze/precache-manifest.9611fb342082641b5b33ddd3b5c63dd3.js",
+    "service-worker.js": "/mazzze/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mazzze/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mazzze/static/media/logo.5d5d9eef.svg"
+  }
+}
